@@ -4,7 +4,7 @@ Learn C++
 
 ## Day 1
 
-[Hello, world!](#Day1)
+[Hello, world!](./Day1)
 
 **Goal:**
 
