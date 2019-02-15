@@ -10,5 +10,5 @@ Keypoints:
 
 1. Signed and unsigned is only for integer types. i.e. char, short, int.
 2. Signed and unsigned are different compiler explain to memory data.
-3. There are minor differece between signed and unsigned when doing right shift operator(ref. arithmetic right shift and logical right shift).
+3. There are some differece between signed and unsigned when doing right shift operator(ref. arithmetic right shift and logical right shift).
 
