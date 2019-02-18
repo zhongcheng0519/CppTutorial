@@ -29,16 +29,18 @@ struct Motion {
 
 int main()
 {
-        uint32_t x = 3;
-        Student_t linmg;
-        linmg.name[0]='l';
-        linmg.name[1]='\0';
+    uint32_t x = 3;
+    Student_t linmg;
+    linmg.name[0]='l';
+    linmg.name[1]='\0';
 
-        linmg.gender = 0;
-        linmg.score = 100.0f;
+    linmg.gender = 0;
+    linmg.score = 100.0f;
 
-        struct Motion motion;
+    struct Motion motion;
 
-        printf("sizeof Motion is: %ld\n", sizeof(motion));
-        return 0;
+    printf("sizeof Motion is: %ld\n", sizeof(motion));
+    return 0;
 }
+
+    
