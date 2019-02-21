@@ -9,4 +9,4 @@ Learn C++
 - [**Day 5**: Basic Statements](./Day5)
 - [**Day 6**: Functions](./Day6)
 - [**Day 7**: Bit Operations](./Day7)
-- [**Day 8**: Makefile](./Day 8)
+- [**Day 8**: Makefile](./Day8)
