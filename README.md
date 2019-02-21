@@ -8,4 +8,4 @@ Learn C++
 - [**Day 4**: Data Type(custom)](./Day4)
 - [**Day 5**: Basic Statements](./Day5)
 - [**Day 6**: Functions](./Day6)
-
+- [**Day 7**: Bit Operations](./Day7)
