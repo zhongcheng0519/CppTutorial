@@ -1,5 +1,7 @@
 # CppTutorial
 
+此教程为基础教程，大概为期一月。
+
 Learn C++
 
 - [**Day 1**: Hello, world!](./Day1)
