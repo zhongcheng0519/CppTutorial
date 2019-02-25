@@ -10,3 +10,4 @@ Learn C++
 - [**Day 6**: Functions](./Day6)
 - [**Day 7**: Bit Operations](./Day7)
 - [**Day 8**: Makefile](./Day8)
+- [**Day 9**: Layer Philosophy](./Day9)
