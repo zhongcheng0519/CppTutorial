@@ -13,3 +13,4 @@ Learn C++
 - [**Day 7**: Bit Operations](./Day7)
 - [**Day 8**: Makefile](./Day8)
 - [**Day 9**: Layer Philosophy](./Day9)
+- [**Day 10**: Vim Configuration](./Day10)
