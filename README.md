@@ -15,3 +15,5 @@ Learn C++
 - [**Day 9**: Layer Philosophy](./Day9)
 - [**Day 10**: Vim Configuration](./Day10)
 - [**Day 11**: Class - has a and is a](./Day11)
+- [**Day 12**: stack & heap](./Day12)
+
