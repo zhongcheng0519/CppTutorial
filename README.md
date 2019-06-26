@@ -17,4 +17,3 @@ Learn C++
 - [**Day 11**: Class - has a and is a](./Day11)
 - [**Day 12**: stack & heap](./Day12)
 
-test hook
